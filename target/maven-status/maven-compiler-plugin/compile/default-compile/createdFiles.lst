@@ -1,0 +1,12 @@
+persistence\PedidoDaoImpl.class
+services\PedidoManagementServiceImpl.class
+persistence\PedidoDaoI.class
+persistence\ProductoDaoI.class
+services\PedidoManagementServiceI.class
+persistence\Pedido.class
+persistence\AbstractEntity.class
+persistence\ProductoDaoImpl.class
+services\ProductoManagementServiceImpl.class
+persistence\Producto.class
+services\ProductoManagementServiceI.class
+main\Main.class
